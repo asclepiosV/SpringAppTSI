@@ -18,3 +18,13 @@ application.properties to setup data base connection
 
 
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/80546510/161117464-6f4b46b6-c423-4f11-8cf6-7c1eadef2c8a.png">
+
+
+## Instructions
+
+
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/80546510/161117840-af1905f4-0eb0-4109-882f-3d39715fb572.png">
+
+
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/80546510/161117934-026e5bd9-e5cf-4012-9bef-98e9f3b5716f.png">
+
